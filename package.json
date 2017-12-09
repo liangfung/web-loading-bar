@@ -1,0 +1,22 @@
+{
+  "name": "web-loading-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangfung/web-loading-bar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangfung/web-loading-bar/issues"
+  },
+  "homepage": "https://github.com/liangfung/web-loading-bar#readme",
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}
